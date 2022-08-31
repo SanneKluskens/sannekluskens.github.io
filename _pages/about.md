@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cvphoto.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>514 your office number</p>
+    <p>Hans Freudenthal building 514</p>
     <p>Budapestlaan 6</p>
     <p>Utrecht, Netherlands</p>
 
