@@ -1,7 +1,6 @@
 ---
 layout: page
 title: project 1
-<!-- description: &mu;-Games -->
 description: Test
 img: /assets/img/1.jpg
 importance: 1
