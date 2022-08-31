@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: &mu;-Games
-img: /assets/img/MuGames.jpg
+img: /assets/img/1.jpg
 importance: 1
 category: work
 ---
