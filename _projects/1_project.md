@@ -3,7 +3,7 @@ layout: page
 <!-- title: &mu;-Games -->
 title: Games
 description: Mathematical problem solving competition.
-<!-- img: /assets/img/1.jpg -->
+img: /assets/img/1.jpg
 importance: 1
 category: work
 ---
