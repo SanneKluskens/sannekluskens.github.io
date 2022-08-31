@@ -1,6 +1,5 @@
 ---
 layout: page
-<!-- title: &mu;-Games -->
 title: Games
 description: Mathematical problem solving competition.
 img: /assets/img/1.jpg
