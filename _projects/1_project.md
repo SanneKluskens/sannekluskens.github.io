@@ -1,6 +1,6 @@
 ---
 layout: page
-title: &#956; - Games
+title: Mu-Games
 description: Mathematical problem solving competition.
 img: /assets/img/1.jpg
 importance: 1
