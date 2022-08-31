@@ -2,7 +2,7 @@
 layout: page
 title: &mu;-Games
 description: Mathematical problem solving competition.
-img: assets/img/Mu-Games.jpg
+img: assets/img/MuGames.jpg
 importance: 1
 category: work
 ---
