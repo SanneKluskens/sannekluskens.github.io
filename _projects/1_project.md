@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games
+title: &#956; - Games
 description: Mathematical problem solving competition.
 img: /assets/img/1.jpg
 importance: 1
