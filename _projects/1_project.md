@@ -1,18 +1,8 @@
-<!-- 
 ---
 layout: page
 title: project 1
-description: Mathematical problem solving competition.
-img: assets/img/MuGames.jpg
-importance: 1
-category: work
---- -->
-
----
-layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/3.jpg
+description: a project with no image
+img:
 importance: 1
 category: work
 ---
