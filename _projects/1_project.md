@@ -25,6 +25,3 @@ category: work
 
 
 
-
-```
-{% endraw %}
