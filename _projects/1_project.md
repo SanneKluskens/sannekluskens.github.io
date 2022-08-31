@@ -1,9 +1,18 @@
-
+<!-- 
 ---
 layout: page
 title: project 1
 description: Mathematical problem solving competition.
 img: assets/img/MuGames.jpg
+importance: 1
+category: work
+--- -->
+
+---
+layout: page
+title: project 1
+description: a project with a background image
+img: assets/img/3.jpg
 importance: 1
 category: work
 ---
@@ -79,8 +88,3 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
-
-
-
-
-
