@@ -22,7 +22,7 @@ A possible exercise (one that was actually used in the third edition of this eve
     This image can also have a caption. It's like magic.
 </div> -->
 
-At the moment if am not anymore involved directly with this event, but for questions you can always contact me or take a look at the <a href="https://clover.science.uu.nl/"> website </a>.
+At the moment I am not anymore directly involved with this event, but for questions you can always contact me or take a look at the <a href="https://clover.science.uu.nl/"> website </a>.
 
 
 
