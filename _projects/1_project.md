@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: a project with no image
-img:
+description: &mu;-Games
+img: /assets/img/MuGames.jpg
 importance: 1
 category: work
 ---
