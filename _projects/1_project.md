@@ -18,9 +18,9 @@ A possible exercise (one that was actually used in the third edition of this eve
         {% include figure.html path="assets/img/MuGamesExercise.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
+<div class="caption">
+    For those curious about the solution of this exercise, it can be helpful to read my masters thesis. This thesis is provided <a href="https://niekmooij.github.io/publications/"> here </a>.
+</div>
 
 At the moment I am not anymore directly involved with this event, but for questions you can always contact me or take a look at the <a href="https://clover.science.uu.nl/"> website </a>.
 
