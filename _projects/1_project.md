@@ -2,7 +2,7 @@
 layout: page
 title: µ-Games
 description: Mathematical problem solving competition.
-img: /assets/img/1.jpg
+img: /assets/img/MathGames.jpg
 importance: 1
 category: work
 ---
