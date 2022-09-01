@@ -26,16 +26,20 @@ horizontal: false
   {%- if category == "Master's thesis" -%}
   
     <li class="masthead__menu-item">
-      <a href="[https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf]">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
+      <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
     </li>
   
-  <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf"> website </a>
-  
+<!--   <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf"> M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utrecht University, 2022. </a>
+   -->
 
   {%- endif -%}
   
   {%- if category == "Bachelor's thesis" -%}
-    "Bachelor's thesis"
+
+    <li class="masthead__menu-item">
+      <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijBachelorThesisEntropyAndOptionPricing.pdf">M.N. Mooij. "Entropy and Option Pricing”. Bachelor’s thesis. Utrecht University, 2019.</a>
+    </li>
+    
   {%- endif -%}
   
   {% endfor %}
