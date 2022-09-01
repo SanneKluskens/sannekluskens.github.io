@@ -15,13 +15,13 @@ For the course Methods and Models in Complex Systems I have also been responsibl
 I have been a teaching assistant at the Utrecht University mathematics/physics departments at the
 following bachelor courses.
 
-Methods and Models in Complex Systems (2021)
-Introduction to Stochastic Processes (2021).
-Methods and Models in Complex Systems (2020).
-Introduction to Financial Mathematics (2019).
-Introduction to Geometry (2019).
-Mathematical Techniques 2 (2019).
-Mathematical Techniques 1 (2018).
-Introduction to Financial Mathematics (2018).
+* Methods and Models in Complex Systems (2021).  
+* Introduction to Stochastic Processes (2021).  
+* Methods and Models in Complex Systems (2020).  
+* Introduction to Financial Mathematics (2019).  
+* Introduction to Geometry (2019).  
+* Mathematical Techniques 2 (2019).  
+* Mathematical Techniques 1 (2018).  
+* Introduction to Financial Mathematics (2018).  
 
 
