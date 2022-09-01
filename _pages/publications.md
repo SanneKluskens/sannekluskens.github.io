@@ -18,11 +18,19 @@ horizontal: false
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
+  
   {%- if category == "Publications" -%}
-<!--   <div class="grid"> -->
     Publications
-<!--   </div> -->
   {%- endif -%}
+  
+  {%- if category == "Master's thesis" -%}
+    "Master's thesis"
+  {%- endif -%}
+  
+  {%- if category == "Bachelor's thesis" -%}
+    "Bachelor's thesis"
+  {%- endif -%}
+  
   {% endfor %}
 
 {%- else -%}
