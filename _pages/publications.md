@@ -5,7 +5,7 @@ title: publications
 description: ""
 nav: true
 nav_order: 1
-display_categories: ["Publications", "Master's thesis", "Bachelor's thesis"]
+display_categories: ["Publications", "Master thesis", "Bachelor thesis"]
 horizontal: false
 ---
 
@@ -23,7 +23,7 @@ horizontal: false
     ""
   {%- endif -%}
   
-  {%- if category == "Master's thesis" -%}
+  {%- if category == "Master thesis" -%}
   
     <li class="masthead__menu-item">
       <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
@@ -34,7 +34,7 @@ horizontal: false
 
   {%- endif -%}
   
-  {%- if category == "Bachelor's thesis" -%}
+  {%- if category == "Bachelor thesis" -%}
 
     <li class="masthead__menu-item">
       <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijBachelorThesisEntropyAndOptionPricing.pdf">M.N. Mooij. "Entropy and Option Pricing”. Bachelor’s thesis. Utrecht University, 2019.</a>
