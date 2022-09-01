@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with no image
-img:
-importance: 2
+title: Making pasta
+description: 
+img: 
+importance: 1
 category: fun
 ---
 
