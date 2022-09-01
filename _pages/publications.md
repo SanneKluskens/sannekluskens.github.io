@@ -29,7 +29,7 @@ horizontal: false
       <a href="[https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf]">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
     </li>
   
-  <a href="https://www.google.com/"> website </a>
+  <a href="https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf"> website </a>
   
 
   {%- endif -%}
