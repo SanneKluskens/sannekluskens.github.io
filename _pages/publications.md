@@ -26,7 +26,7 @@ horizontal: false
   {%- if category == "Master's thesis" -%}
   
     <li class="masthead__menu-item">
-      <a href="[https://www.google.com/]">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
+      <a href="[https://github.com/NiekMooij/NiekMooij.github.io/tree/main/assets/pdf/NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf]">M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022.</a>
     </li>
   
   <a href="https://www.google.com/"> website </a>
