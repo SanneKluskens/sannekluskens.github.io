@@ -15,9 +15,7 @@ keywords: academic-website, portfolio-website, Niek-Mooij  # add your own keywor
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-# icon: /assets/img/2DLotkaVolterra.jpg
-icon: !!!
-
+icon: /assets/img/2DLotkaVolterra.jpg
 
 url: https://NiekMooij.github.io # the base hostname & protocol for your site
 last_updated: true # set to true if you want to display last updated in the footer
