@@ -5,7 +5,7 @@ title: publications
 description: ""
 nav: true
 nav_order: 1
-display_categories: [Publications, Master's thesis, Bachelor's thesis]
+display_categories: ["Publications", Master's thesis, Bachelor's thesis]
 horizontal: false
 ---
 
@@ -18,7 +18,7 @@ horizontal: false
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {%- if category === Publications -%}
+  {%- if category == "Publications" -%}
   <div class="grid">
     Publications
   </div>
