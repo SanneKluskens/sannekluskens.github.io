@@ -20,4 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Niek Mooij and I am a PhD student at the Utrecht University department of Mathematics. 
+I am a PhD student at the Utrecht University department of Mathematics starting September 2022. I conduct my research under supervision of Ivan Kryven, Anna von der Heydt and Mara Baudena.
+
+My main interests lie in the field of dynamical systems and graph theory. 
+
+In my research I try to determine the effect of graph topology on the asymptotic properties of dynamical systems. Possible examples of dynamical systems that are inherent to graph topology can be found in ecology and climate physics.
