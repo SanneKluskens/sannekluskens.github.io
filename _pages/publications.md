@@ -14,5 +14,24 @@ horizontal: false
 <h2 class="category">{{ Publications }}</h2>
   hoi
   
+{%- if site.enable_project_categories and page.display_categories %}
+  {%- for category in page.display_categories %}
+    <h2 class="category">{{ category }}</h2>
+  
+    {%- if category == Publications %}
+      Publications
+    {%- endif -%}
+  
+    {%- if category == Master's thesis %}
+        Master's thesis
+    {%- endif -%}
+  
+    {%- if category == Bachelor's thesis %}
+      Bachelor's thesis
+    {%- endif -%}
 
+  {% endfor %}
+
+{%- endif -%}
+ 
 
