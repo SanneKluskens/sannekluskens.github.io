@@ -24,7 +24,7 @@ horizontal: false
   {%- endif -%}
   
   {%- if category == "Master's thesis" -%}
-    "Master's thesis"
+    M.N. Mooij. "Generating Maximal Independent Sets Using Lotka-Volterra Dynamics”. Master’s thesis. Utreht University, 2022. NiekMooijMasterThesisGeneratingMaximalIndependentSetsUsingLotkaVolterraDynamics.pdf
   {%- endif -%}
   
   {%- if category == "Bachelor's thesis" -%}
