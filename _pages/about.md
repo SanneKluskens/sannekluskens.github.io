@@ -25,3 +25,5 @@ I am a PhD student at the Utrecht University department of Mathematics starting 
 My main interests lie in the field of dynamical systems and graph theory. 
 
 In my research I try to determine the effect of graph topology on the asymptotic properties of dynamical systems. Possible examples of dynamical systems that are inherent to graph topology can be found in ecology and climate physics.
+
+I am always open to collaborate, so please do hesitate to contact me.
