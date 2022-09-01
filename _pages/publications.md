@@ -20,7 +20,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   
   {%- if category == "Publications" -%}
-    ""
+    
   {%- endif -%}
   
   {%- if category == "Master thesis" -%}
