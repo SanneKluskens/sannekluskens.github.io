@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Utrecht University</a>. Utrecht. Netherlands.
+subtitle: <a href='https://www.uu.nl/'>Utrecht University</a>. Utrecht. Netherlands.
 
 profile:
   align: right
