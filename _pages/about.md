@@ -9,7 +9,8 @@ profile:
   image: cvphoto.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hans Freudenthal 514</p>
+    <p>Hans Freudenthal</p>
+    <p>Room 514</p>
     <p>Budapestlaan 6</p>
     <p>3584 CD Utrecht</p>
     <p>Netherlands</p>
