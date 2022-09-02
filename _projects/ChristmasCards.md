@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Making pasta
+title: Christmas Cards
 description: 
-img: /assets/img/ChristmasCards.jpg
+img: /assets/img/ChristmasCards.jpeg
 importance: 2
 category: fun
 ---
