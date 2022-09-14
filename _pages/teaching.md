@@ -15,6 +15,7 @@ For the course Methods and Models in Complex Systems I have also been responsibl
 I have been a teaching assistant at the Utrecht University mathematics/physics departments at the
 following bachelor courses.
 
+* Infinitesimaalrekening en Lineaire Algebra 1 (2022).
 * Methods and Models in Complex Systems (2021).  
 * Introduction to Stochastic Processes (2021).  
 * Methods and Models in Complex Systems (2020).  
