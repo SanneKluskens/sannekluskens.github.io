@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Christmas Cards
+title: Holiday Cards
 description: 
 img: /assets/img/ChristmasCards.jpeg
 importance: 2
