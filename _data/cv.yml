@@ -2,43 +2,44 @@
   type: map
   contents:
     - name: Full Name
-      value: (Niek) Martijn Nicolaas Mooij
+      value: Sanne Kluskens
     - name: Date of Birth
-      value: 9th October 1996
+      value: 4th of January 1996
     - name: Languages
-      value: Dutch, English, German
+      value: Dutch, English
 
 - title: Education
   type: time_table
   contents:
-    - title: Master diploma
-      institution: Utrecht University, Utrecht, Netherlands
-      year: 2022
+    - title: HBO
+      institution: Hogeschool voor de Kunsten, Utrecht, Netherlands
+      year: 2020
       description:
-        - Mathematical Sciences.
-        - Track":" Probability and Statistics.
-
-    - title: Bachelor diploma
-      institution: Utrecht University, Utrecht, Netherlands
-      year: 2019
-      description:
-        - Mathematics.
-        
-    - title: Bachelor diploma
-      institution: Utrecht University, Utrecht, Netherlands
-      year: 2019
-      description:
-        - Physics.
-        
+        - Fashion design.
+        - Marketing.
+        - Sustainable fashion
        
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching assistant
-      institution: Utrecht University, Utrecht
-      year: 2018 - 2021
+    - title: Owner See You Tomorrow Studios.
+      institution: 
+      year: 2020 - current.
       description:
-        - Helping students during tutorials.
+        - Helping the sustainable transition of the fashion industry by creating renewable clothing lines.
+
+  - title: Hunkemoller Junior Visual Merchandiser Specialist.
+          institution: 
+          year: April 2022 - current.
+          description:
+            - Visual Merchandise specialist responsible for all visual aspects of Hunkemoller stores located in the Netherlands as well as stores located across Europe.
+
+  - title: Hunkemoller Visual Merchandiser.
+        institution: 
+        year: Sptember 2020 - April 2022.
+        description:
+          - Visual Merchandise specialist responsible for all visual aspects of several Hunkemoller stores.
+
 
 
 - title: Academic Interests
