@@ -8,6 +8,5 @@ nav_order: 5
 ---
 
 
-SYTS
 
 
