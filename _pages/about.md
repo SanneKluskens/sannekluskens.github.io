@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <a href='https://www.seeyoutomorrowstudios.com/'>See You Tomorrow Studios</a>. Utrecht. Netherlands.
 
 profile:
   align: right
