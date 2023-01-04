@@ -2,31 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uu.nl/'>Utrecht University</a>. Utrecht. Netherlands.
+subtitle: 
 
 profile:
   align: right
   image: cvphoto.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hans Freudenthal</p>
-    <p>Room 514</p>
-    <p>Budapestlaan 6</p>
-    <p>3584 CD Utrecht</p>
-    <p>Netherlands</p>
-    
+    <p>Utrecht, Netherlands</p>    
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the Utrecht University department of Mathematics starting September 2022. I conduct my research under supervision of Ivan Kryven, Anna von der Heydt and Mara Baudena.
+I am an entrepeneur motivated to change the worldwide waste of clothing into a sustainable cyclus. With my company See You Tomorrow Studios I provide sustainable clothing made from used items. 
 
-My main interests lie in the field of dynamical systems and graph theory. 
-
-In my research I try to determine the effect of graph topology on the asymptotic properties of dynamical systems. Possible examples of dynamical systems that are inherent to graph topology can be found in ecology and climate physics.
-
-I am always open to collaborate, so please do not hesitate to contact me.
-
-In my free time I like to play basketball, read a book, or attend music festivals/concerts.
+Aside from sustainability, the focus of See You Tomorrow Studios lies in fashion. We provide timeless clothing that can be used for long time. The contrast with the fashion industry nowadays is big. We fight against the doomed cycles of fast fashion while also providing beautiful clothes.
