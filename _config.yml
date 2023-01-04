@@ -15,7 +15,7 @@ keywords: website, portfolio-website, Sanne-Kluskens  # add your own keywords or
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: cvphoto.jpeg
+icon: teckel_logo.png
 
 url: https://SanneKluskens.github.io # the base hostname & protocol for your site
 last_updated: true # set to true if you want to display last updated in the footer
