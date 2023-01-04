@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://www.seeyoutomorrowstudios.com/'>See You Tomorrow Studios</a>.
