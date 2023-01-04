@@ -36,26 +36,15 @@
 
   - title: Hunkemoller Visual Merchandiser.
         institution: 
-        year: Sptember 2020 - April 2022.
+        year: September 2020 - April 2022.
         description:
           - Visual Merchandise specialist responsible for all visual aspects of several Hunkemoller stores.
 
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Dynamical systems.
-      items: 
-        - Ecology.
-    - title: Algorithmical problems.
-      items:
-        - Complexity theory.
-        - Approximation algorithms.
-    - title: Real-life networks.
-    - title: Numerical methods.
-    - title: Spectral theory.
-
+    - title: Ginger Aardbei Allround medewerker.
+      institution: 
+      year: July 2019 - June 2020.
+      description:
+        - Visual Merchandise specialist responsible for all visual aspects of several Hunkemoller stores.
 
 - title: Other Interests
   type: list
